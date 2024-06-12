@@ -1,5 +1,5 @@
 {
-  "name": "06-express-server",
+  "name": "11-jwt-authentication",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",

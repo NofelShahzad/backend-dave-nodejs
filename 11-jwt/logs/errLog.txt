@@ -3,3 +3,8 @@
 20240529	17:51:13	0654cf94-7343-48ea-a58e-ee5f5ce076e5	ReferenceError: employees is not defined
 20240529	18:01:53	6826893a-19fa-44ae-abed-d8049678ed31	TypeError: 2 is not a function
 20240529	18:50:56	00bebc36-dc42-4ed2-ae1b-6f3fc4ccaf50	TypeError: Cannot read properties of undefined (reading 'length')
+20240606	19:01:53	67bae935-8342-43b1-ae03-1fa629d43a26	TypeError: name argument is required to req.get
+20240606	21:20:38	4bd1c4c6-c4ca-4f60-a03c-9b3ab02846df	TypeError: Cannot read properties of undefined (reading 'origin')
+20240611	19:51:08	82f58a63-3f1e-4a73-8b2d-37fade00e790	TypeError: Cannot read properties of undefined (reading 'origin')
+20240611	19:57:25	c9749174-06d1-4d42-b018-ea43aee54472	TypeError: Cannot read properties of undefined (reading 'origin')
+20240611	20:06:25	12a5ebe7-d098-4b92-816b-813df5df24e1	TypeError: Cannot read properties of undefined (reading 'origin')
