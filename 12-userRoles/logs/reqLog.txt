@@ -272,5 +272,3 @@
 20240611	20:11:27	df27cc03-b0eb-410a-a7ca-539329e8450b	OPTIONS	http://localhost:3000	/auth
 20240611	20:11:27	31467a8c-7dce-45d3-b341-a31472bd9518	POST	http://localhost:3000	/auth
 20240701	13:32:07	2ab524bd-0945-4aa8-8ca4-2d06353446a1	POST	undefined	/auth
-20241202	17:58:12	adb3c475-91b1-4551-88cb-605df1c907fb	POST	undefined	/register
-20241202	18:04:43	564e2cb5-b744-4289-9eba-ab6f40eea497	POST	undefined	/register
